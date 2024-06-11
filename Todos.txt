@@ -1,6 +1,3 @@
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais Comédia",2 Homens e Meio 24h
-http://24hrs.homelinux.com:80/24H-2HomensEmeio/video.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais Comédia",A Grande Família 24h
 http://24hrs.homelinux.com:80/24H-O.Album.da.Grande.Familia.S01/video.m3u8?token=a4A2wbotS3
 
@@ -30,6 +27,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869f
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61f1d27a189ed10007b7393e/colorLogoPNG.png" group-title="Canais Comédia",Diff’rent Strokes Arnold
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f1d27a189ed10007b7393e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais Comédia",Dois Homens e Meio
+http://24hrs.homelinux.com:80/24H-2HomensEmeio/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais Comédia",Escolinha do Professor Raimundo 24h
 http://24hrs.homelinux.com:80/24H-escolinhaold/video.m3u8?token=a4A2wbotS3
