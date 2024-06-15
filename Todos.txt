@@ -1229,3 +1229,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eba66da8b2270008436b
 ############################################################################################################################
 #EXTINF:-1 tvg-logo="https://images.tcdn.com.br/img/img_prod/1170935/a_5a_onda_nos_revidamos_capa_do_filme_26117_1_1c2e90d032b9129967bb78d5b721f1c1.jpg" group-title="Filmes",A 5ª Onda 2016 Dublado 1080p.
 https://drive.usercontent.google.com/download?id=1ovVdoLcvLUxo6hFss8rP6gHVAeWtZrg1&export=download&authuser=0&confirm=t&uuid=df3cbddd-d544-4079-b513-5f6d89c2f130&at=APZUnTWBTjfL_bfDm_daXkg2-GuN%3A1718359654047
+
+#EXTINF:-1 tvg-logo="https://images.tcdn.com.br/img/img_prod/1170935/a_5a_onda_nos_revidamos_capa_do_filme_26117_1_1c2e90d032b9129967bb78d5b721f1c1.jpg" group-title="Filmes",Fuga (2012)
+https://www.youtube.com/watch?v=Gyffu7FjII0&itdl_pname=_Filmes_Completos&itdl_pindex=0001&itdl_ptotal=1008
