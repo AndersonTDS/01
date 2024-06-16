@@ -1226,6 +1226,12 @@ http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63eba66da8b2270008436b10/colorLogoPNG.png" group-title="Canais Variedades",World Poker Tour
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eba66da8b2270008436b10/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-############################################################################################################################
-#EXTINF:-1 tvg-logo="https://drive.google.com/file/d/17GyaAZgTDRQSo2XJWcEoUlnl8F4WjZ3v/view?usp=sharing" group-title="Filmes",Sob as Águas do Sena (2024)
+####################################         Filmes               ####################################
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",Sob as Águas do Sena (2024)
 https://txyf6n0lv9.sw-cdnstreamwish.com/hls2/01/04078/3aekzxqdp0h6_x/index-v1-a1.m3u8?t=Q2XsO-gu7qEXEFnmDXuVwZ2R4GCgllDcxrG3QdSi2_8&s=1718533058&e=129600&f=20390464&srv=j5zsnx2vbwpa4&i=0.4&sp=500&p1=j5zsnx2vbwpa4&p2=j5zsnx2vbwpa4&asn=267647
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",MR-9 Missao Mortal (2023)
+https://lrxpdbsfsmtd.sw-cdnstreamwish.com/hls2/01/04118/4jmpljopklg1_x/index-v1-a1.m3u8?t=I1rRk7IrSIumI7NPdOyt4vOW8E2Jgi7qh3kMORxcd3s&s=1718534811&e=129600&f=20594293&srv=hl3933oigscv&i=0.4&sp=500&p1=hl3933oigscv&p2=hl3933oigscv&asn=267647
+
+#EXTINF:-1 tvg-logo="Capa" group-title="https://i.imgur.com/uZ6cvR2.png",KALI Anjo Vingador (2024) 
+https://p78gzx2c.sw-cdnstreamwish.com/hls2/01/04041/zv9c6lpfqxy0_x/index-v1-a1.m3u8?t=GICu0Elx_Tcl5QDmHbhiWlqoCmEehQvTr0F1jE-n80I&s=1718535336&e=129600&f=20209311&srv=lm3igzihbizvminb&i=0.4&sp=500&p1=lm3igzihbizvminb&p2=lm3igzihbizvminb&asn=267647
