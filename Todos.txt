@@ -1227,8 +1227,5 @@ http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eba66da8b2270008436b10/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 ############################################################################################################################
-#EXTINF:-1 tvg-logo="https://images.tcdn.com.br/img/img_prod/1170935/a_5a_onda_nos_revidamos_capa_do_filme_26117_1_1c2e90d032b9129967bb78d5b721f1c1.jpg" group-title="Filmes",A 5ª Onda 2016 Dublado 1080p.
-https://drive.usercontent.google.com/download?id=1ovVdoLcvLUxo6hFss8rP6gHVAeWtZrg1&export=download&authuser=0&confirm=t&uuid=df3cbddd-d544-4079-b513-5f6d89c2f130&at=APZUnTWBTjfL_bfDm_daXkg2-GuN%3A1718359654047
-
-#EXTINF:-1 tvg-logo="https://images.tcdn.com.br/img/img_prod/1170935/a_5a_onda_nos_revidamos_capa_do_filme_26117_1_1c2e90d032b9129967bb78d5b721f1c1.jpg" group-title="Filmes",Fuga (2012)
-https://www.youtube.com/watch?v=Gyffu7FjII0&itdl_pname=_Filmes_Completos&itdl_pindex=0001&itdl_ptotal=1008
+#EXTINF:-1 tvg-logo="https://drive.google.com/file/d/17GyaAZgTDRQSo2XJWcEoUlnl8F4WjZ3v/view?usp=sharing" group-title="Filmes",Sob as Águas do Sena (2024)
+https://txyf6n0lv9.sw-cdnstreamwish.com/hls2/01/04078/3aekzxqdp0h6_x/index-v1-a1.m3u8?t=Q2XsO-gu7qEXEFnmDXuVwZ2R4GCgllDcxrG3QdSi2_8&s=1718533058&e=129600&f=20390464&srv=j5zsnx2vbwpa4&i=0.4&sp=500&p1=j5zsnx2vbwpa4&p2=j5zsnx2vbwpa4&asn=267647
