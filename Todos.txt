@@ -1228,76 +1228,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eba66da8b2270008436b
 
 ####################################         Filmes               ####################################
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",A Batalha do Biscoito Pop Tart (2024)
-https://mtgaoqvzuxsp.sw-cdnstreamwish.com/hls2/01/03758/lsp2ybh183lz_x/index-v1-a1.m3u8?t=AXKPxacwEfWbyF43NKt11f2IwGFYdYryP1xNcPDliZY&s=1718548861&e=129600&f=18790851&srv=e9fy5pjacsm6z&i=0.4&sp=500&p1=e9fy5pjacsm6z&p2=e9fy5pjacsm6z&asn=267647
+https://www.dailymotion.com/video/k778xrj2zO6O2GAUCTo
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",A Noite em Que Voltaram para Casa (2024)
-https://ku8irth3qn.sw-cdnstreamwish.com/hls2/01/03749/53eryni6z6jv_x/index-v1-a1.m3u8?t=6rf07rdKv2yZFbGQGEeWldKcT0gtqA0sWv4WX98_4Vg&s=1718549482&e=129600&f=18748251&srv=a4n56o3fir6h&i=0.4&sp=500&p1=a4n56o3fir6h&p2=a4n56o3fir6h&asn=267647
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",Alma de Cacador (2024)
-https://acuag5o4.sw-cdnstreamwish.com/hls2/01/03454/zu4t4l9e3nr5_x/index-v1-a1.m3u8?t=71G2eW4t3JKmPCOnR8tqFKPa61V9rW-BqV2P8NKRDpo&s=1718551440&e=129600&f=17272034&srv=hg8ifg7jzbs5&i=0.4&sp=500&p1=hg8ifg7jzbs5&p2=hg8ifg7jzbs5&asn=267647 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",Atlas (2024)
-https://q7k6ad0empwu.sw-cdnstreamwish.com/hls2/01/03937/i0yq318ji77c_x/index-v1-a1.m3u8?t=xz7nw0raMxBKsJWBxmsSCw8D3spqs2D8dkAUmlH14to&s=1718546326&e=129600&f=19686762&srv=a7qddtwgfzh5tbn7&i=0.4&sp=500&p1=a7qddtwgfzh5tbn7&p2=a7qddtwgfzh5tbn7&asn=267647
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",Bionicos (2024)
-https://ku8irth3qn.sw-cdnstreamwish.com/hls2/01/04011/op4jnc05ple5_x/index-v1-a1.m3u8?t=9EQZSOLqD3L16EwXkrE_y7R3fq_fCrf51fUD94rUbCQ&s=1718536416&e=129600&f=20059881&srv=b2a52u9wjcr9&i=0.4&sp=500&p1=b2a52u9wjcr9&p2=b2a52u9wjcr9&asn=267647
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",City Hunter (2024)
-https://ku8irth3qn.sw-cdnstreamwish.com/hls2/01/03683/y23lo3qdtogw_x/index-v1-a1.m3u8?t=U_aQnkN_oueMbJEQ57nDr3bi3eNe4xjj1bgkz0Ox4hI&s=1718549811&e=129600&f=18417616&srv=t3y6fugxac5w4&i=0.4&sp=500&p1=t3y6fugxac5w4&p2=t3y6fugxac5w4&asn=267647
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",Colateral (2024)
-https://w4brgvd1j1.sw-cdnstreamwish.com/hls2/01/03798/0igmjmayb1ye_x/index-v1-a2.m3u8?t=6ieWZtWDo5ZmYUZsMof2Oib9BlxCPburUua4Zr2qNto&s=1718548269&e=129600&f=18991972&srv=txmraegnjpog&i=0.4&sp=500&p1=txmraegnjpog&p2=txmraegnjpog&asn=267647
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",Danificado (2024)
-https://m3x3w3m3yy.sw-cdnstreamwish.com/hls2/01/03910/w1waw8smji9l_x/index-v1-a1.m3u8?t=DrjlQszPlA9O4vqQTmoiLzY2gTvI626GAAa4zeH61es&s=1718546772&e=129600&f=19553209&srv=lm3igzihbizvminb&i=0.4&sp=500&p1=lm3igzihbizvminb&p2=lm3igzihbizvminb&asn=267647
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",Desespero Profundo (2024)
-https://qegvxbigwywv.sw-cdnstreamwish.com/hls2/01/03672/2z82jv5wy5jd_x/index-v1-a1.m3u8?t=nQlh61p89RLcORWiWxJq4FPhesj5I060nJlNzK8TisY&s=1718549926&e=129600&f=18360881&srv=wkfnalvnpz05&i=0.4&sp=500&p1=wkfnalvnpz05&p2=wkfnalvnpz05&asn=267647
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",Duna (2021)
-https://download2439.mediafire.com/3h9xk9cyd4pgNCHFXBMIDMRF6YNsGCgcBRGi1mXmqi7VlG0i_JfVQilg9oPtzq2eHKTgticuG5JZKStLhsQqlk_lEU_guYWMxujgCFas5kxbvJpk4epdiK8Fw6R8pPPd0RZbtYW3_HYChrQL240_HV-el0ae1ipGXIup2uMN-gB3eO4/jfz5lregi9ippzs/98368fb256da97a997fa7c892ffff1a6.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",Duna Parte Dois (2024)
-https://download2444.mediafire.com/r3dpup9itkjgtHWhanxUFQSpppiAuI7Uw1d-84FDRr1UjGckPs3gSOIM57roKPc5Ttbv_hsFRWsY83WK6zZGSngb_rOyKiVX_g4ah1Ed3Iv9C7vQuQNhFL97jp62e7xI-19BnGpnhkZ2aUtWoqcfGf84zmdbZkbMwIhQWm7FqRakLeo/juoug34hkhwa7pr/cfac24791996c9cb97480f8a516354e8.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",Duro de Atuar 2 (2024)
-https://w4rd3njc.sw-cdnstreamwish.com/hls2/01/04028/vy67q4r3t9iw_x/index-v1-a1.m3u8?t=mkjkIwirXHD2gls9yNu9uyOtkHrYoxxvUqRdPe6lhUg&s=1718536617&e=129600&f=20144759&srv=w55h4e89nvet&i=0.4&sp=500&p1=w55h4e89nvet&p2=w55h4e89nvet&asn=267647
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",Ghostbusters Apocalipse de Gelo (2024)
-https://z8dpsptc.sw-cdnstreamwish.com/hls2/01/03782/t2x728317b7u_x/index-v1-a1.m3u8?t=qHIkLLOjQvy-tJRNqp_hOXVpcFTgJkrGdNQ5VQSfwjM&s=1718548450&e=129600&f=18911841&srv=n9vfyq5goul3&i=0.4&sp=500&p1=n9vfyq5goul3&p2=n9vfyq5goul3&asn=267647
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",Godzilla x Kong O Novo Imperio (2024)
-https://be28vgi7ri.sw-cdnstreamwish.com/hls2/01/03828/zzm86hwymzqu_x/index-v1-a1.m3u8?t=04I3UBUyJguKo99p1KVMp_2Ih38gIbT-gm1QTGY2554&s=1718547805&e=129600&f=19140856&srv=x76kg5uzb8nq&i=0.0&sp=500&p1=x76kg5uzb8nq&p2=x76kg5uzb8nq&asn=267647
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",Jade Guerreira Solitária (2024)
-https://ly2q757psl.sw-cdnstreamwish.com/hls2/01/03778/4pgrv51vqhtj_x/index-v1-a1.m3u8?t=N9YDPQ7MJ-Rt_d1OlQhdUDXc5E1LOqGyz6PzucLP5w4&s=1718548566&e=129600&f=18892471&srv=klhveajrfvm1&i=0.4&sp=500&p1=klhveajrfvm1&p2=klhveajrfvm1&asn=267647
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",KALI Anjo Vingador (2024
-https://p78gzx2c.sw-cdnstreamwish.com/hls2/01/04041/zv9c6lpfqxy0_x/index-v1-a1.m3u8?t=GICu0Elx_Tcl5QDmHbhiWlqoCmEehQvTr0F1jE-n80I&s=1718535336&e=129600&f=20209311&srv=lm3igzihbizvminb&i=0.4&sp=500&p1=lm3igzihbizvminb&p2=lm3igzihbizvminb&asn=267647
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",MR-9 Missao Mortal (2023)
-https://lrxpdbsfsmtd.sw-cdnstreamwish.com/hls2/01/04118/4jmpljopklg1_x/index-v1-a1.m3u8?t=I1rRk7IrSIumI7NPdOyt4vOW8E2Jgi7qh3kMORxcd3s&s=1718534811&e=129600&f=20594293&srv=hl3933oigscv&i=0.4&sp=500&p1=hl3933oigscv&p2=hl3933oigscv&asn=267647
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",O Entregador (2024)
-https://oto5oedn21kx.sw-cdnstreamwish.com/hls2/01/03816/z72utttuvi72_x/index-v1-a1.m3u8?t=kFNvUevOo5WDu6lg7e4P4MzI25ukIif43S6fSfhwQBY&s=1718547964&e=129600&f=19082004&srv=b9snc5zu87csf&i=0.0&sp=500&p1=b9snc5zu87csf&p2=b9snc5zu87csf&asn=267647
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",Rebel Moon Parte 1 A Menina do Fogo (2023)
-https://908472047.tapecontent.net/radosgw/3D3oB8BAaXHdqK3/TYqI-d3HSd39_YAed1n1v-Ynu6R3it4sKuarMWemObk89n2Kzx3UD8hHBA3ClN11IA86pOJHKqYCyEtPhDqw1jvzN8bQLOa8f4UyWhhgCRncNXwPi3fBkGrfxNitmSndEV5-hRMhTnc1lPNoGpIDSW9jtxiG-ri9hkyEyMkJkhFCegNP1IKFuLnbfxoyBLqMA6rSatII3dKs9F5Y3E1jSZ0dNXWSJOvEfFoEdAXFRzL_j6nhwn0wXk_-AYo3f5a5mL1paKK_K1IZ_eoDkl-DXhvhtxhPkLUbUvQLjC1z3NVL7Sq5MW6Me5pR4-fFwEkJ4773a-13QKBRy4AnbJ2n7yFcoewtC_lMGUjZtA/Rebel.Moon.Parte.1.A.Menina.do.Fogo.2023.1080p.WEB-DL.x264.DUAL.mkv.mp4?stream=1
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",Rebel Moon Parte 2 A Marcadora de Cicatrizes (2024)
-https://plzxvt62.sw-cdnstreamwish.com/hls2/01/03611/a4aiomr65c3m_x/index-v1-a2.m3u8?t=yvG8i7uQizalXr57tILe2FH0LPG9bwmjWaAkefM0chU&s=1718550106&e=129600&f=18056895&srv=qkjzspbjuubm&i=0.4&sp=500&p1=qkjzspbjuubm&p2=qkjzspbjuubm&asn=267647
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",Sayen A Cacadora (2024)
-https://p0tgll7ek4pg.sw-cdnstreamwish.com/hls2/01/03704/1y3ja8lrappm_x/index-v1-a1.m3u8?t=QWLcNPHBeXngLY21GCmLJn5MO75qO38j9JeXNeyxgrA&s=1718549638&e=129600&f=18520104&srv=s25x1cpio&i=0.4&sp=500&p1=s25x1cpio&p2=s25x1cpio&asn=267647
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",Sem Pressao (2024)
-https://vypd0e87z8.sw-cdnstreamwish.com/hls2/01/03454/mgxcyuz4ihra_x/index-v1-a1.m3u8?t=heD7237klSkw6FBSC7cJo8FOq3sQsW6pSO4X5182yXQ&s=1718551585&e=129600&f=17271968&srv=9hgr7iplsz&i=0.4&sp=500&p1=9hgr7iplsz&p2=9hgr7iplsz&asn=267647
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",Sob as Águas do Sena (2024)
-https://txyf6n0lv9.sw-cdnstreamwish.com/hls2/01/04078/3aekzxqdp0h6_x/index-v1-a1.m3u8?t=Q2XsO-gu7qEXEFnmDXuVwZ2R4GCgllDcxrG3QdSi2_8&s=1718533058&e=129600&f=20390464&srv=j5zsnx2vbwpa4&i=0.4&sp=500&p1=j5zsnx2vbwpa4&p2=j5zsnx2vbwpa4&asn=267647
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",The Dry 2 Força da Natureza (2024)
-https://poo1xkur32.sw-cdnstreamwish.com/hls2/01/03967/f9slfm33nf8c_x/index-v1-a1.m3u8?t=Cp8lf2QXvUgkFk96RnYlhjwwlXtoyUi509rLPl2lZ7E&s=1718546088&e=129600&f=19838228&srv=g10myoqlwt&i=0.4&sp=500&p1=g10myoqlwt&p2=g10myoqlwt&asn=267647
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",Wanted Man Marcado Para Morrer (2024)
-https://dusnycyzzqaz.sw-cdnstreamwish.com/hls2/01/03806/meaji8nf121y_x/index-v1-a1.m3u8?t=bc08V28Pd6UJlBjA4XSP4pfhsD3X-jq3CAorNyWdhD0&s=1718548095&e=129600&f=19034460&srv=tszfjzanyeke&i=0.4&sp=500&p1=tszfjzanyeke&p2=tszfjzanyeke&asn=267647
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",KALI Anjo Vingador (2024)
+https://www.dailymotion.com/video/x8zwx8y
