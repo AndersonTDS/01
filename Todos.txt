@@ -1228,7 +1228,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eba66da8b2270008436b
 
 ####################################         Filmes               ####################################
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",A Batalha do Biscoito Pop Tart (2024)
-https://www.dailymotion.com/video/k778xrj2zO6O2GAUCTo
+#https://www.dailymotion.com/video/k778xrj2zO6O2GAUCTo
+https://www.dailymotion.com/cdn/manifest/video/x90qr9e.m3u8?sec=Y9-yHPjg7dQzNh8rf0PnQE6L_hzoMD0aQS-aJ7XZxuynhoJH1QDGYgg6q_1tjTHE&dmTs=246471&dmV1st=53d9f43d-094c-40d4-b8e2-54876a3cd2fe
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",KALI Anjo Vingador (2024)
-https://www.dailymotion.com/video/x8zwx8y
+#https://www.dailymotion.com/video/x8zwx8y
+#https://www.dailymotion.com/cdn/manifest/video/x8zwx8y.m3u8?sec=0zFr0mmBmyiw0Mh-7xum-E-g31mBEK2k4c4XbkuJE8UfMJJR1hSr3JBh1xZ1CNfj&dmTs=246471&dmV1st=53d9f43d-094c-40d4-b8e2-54876a3cd2fe
+https://www.dailymotion.com/cdn/manifest/video/x8zwx8y.m3u8
