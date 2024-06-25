@@ -1227,95 +1227,110 @@ http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eba66da8b2270008436b10/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 ####################################         Filmes               ####################################
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",12 Horas Para o Fim do Mundo (2023)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes Dailymotion",12 Horas Para o Fim do Mundo (2023)
 https://www.dailymotion.com/cdn/manifest/video/x8qi6kf.m3u8?sec=fipyFanzkJaA_rt7LHu-QoLAoEvLSWaBB2bPigYD0b4ls19YjSwZehWGZKCeWJkW&dmTs=246471&dmV1st=53d9f43d-094c-40d4-b8e2-54876a3cd2fe
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",16 Quadras (2006)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes Dailymotion",16 Quadras (2006)
 https://www.dailymotion.com/cdn/manifest/video/x8n0l4h.m3u8?sec=319pp5XKPrx9i6gBdQe4-Gi63lbuWw9xDvp9uJ7SsnXg9LD-_5pfOAJpxrAcQ23Q&dmTs=246471&dmV1st=53d9f43d-094c-40d4-b8e2-54876a3cd2fe
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",24 Horas com Gaspar (2024)
-https://2448424673.tapecontent.net/radosgw/PvBOpXwjeGtxkV/9JMI3xlWQmEr9PCiQkG1ESraohcM0726hpbyEvUqTv2yUy9fV9dTe6bpjntJA-PexXmwwPRMMvNdniRCWG_oJZ1wuKAu2LHmsT87z40b0lAm_bEvDWDxW1hqFP9qYfmjptG-8UI5wb0OwnCxWz9ki9NSvQHIL9PwQ18ariPDTb6w2cVw9Jfg4GT8l4Zdzo-GzHqFhq-XM67T4baPJra9Otl7QTO8AM4AgBom7ckwrnOsyOZT_tx6SGNDHCYPRD0W6o5s5LQjgPwLMos5kb_E0Beh4nQYUdK8lE0Tk3wWAxuufy8F92OHlMTsYnC0AXXN2UTBIFQXTVzj0RV0/24.Horas.com.Gaspar.2024.1080p.WEB-DL.x264.DUAL.mkv.mp4?stream=1
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",57 Segundos (2023)
-https://2273158035.tapecontent.net/radosgw/x9o4deAYPeCkex6/plJg5mnnJ97t1K-3587wfZbMXdrjUcXg9rEPs0HGBi6Bqa9OIZ13SA1eQOcagQF8ck2DNegSoDUpG5MVVKKWey1SZjc0zGILbeotukOiNGXDtuGuTRDn7JXsi3iKecuzcLtMqZhUeDvJ9t9B931cJ9NweGUGMw2YF7bCqQ1Mwdww_LyVkSz5NHwIwoVP2zrOD5rhAh8a84sVmNcyZ9fjhDm1CIJaLXWrZESzLyFv09LU1Ahptk8Ja43au-ebW-GtktjX14Cknjxdt_ss33FKvdEeqqFm7nTT293QvBIptMyryvjkYs76D4cdMKzFB6eh22ClNiSGcMNtdsyA/57+Segundos+2023+WEB-DL+1080p+x264+DUAL+5.1.mkv.mp4?stream=1
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",60 Minutos (2024)
-https://858143364.tapecontent.net/radosgw/wldoqJ8QkBfWzd/fztEJWMlIF9NUIRBuqQZqm8U-GI4DTNUBXrv3Ot-StSqH5YI1KnVlunOxwx9_LFJGj2McfkliMVjkBhbV9qfEteIemc_B5SvBhe6LbbFyj9b6aF6fxStYGJxUGwiXYan-o1-9BCEJjQtWkdEIdzgVJooms_pL5Z_IfFl8an0ZxUQNrtXw-4Ue6jd9GP3tqwde2c08IdFj5Hb8xuRvFtz1PexND3vwBkV3P-JM7pPsSb85k8dh3FjHlOf-kHPJIIcuG2jtawbVkFP5I5Idfj34VFB4gFMTN8v6Iv3i8kpUcCAZd0I-7nluUhN45-XY1rHmJ_r3_gB6ZlCTLuN/COMANDOPLAY.COM-60.Minutos.2024.1080p.WEB-DL.FULL.DUAL.mkv.mp4?stream=1
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",A Aranha Negra (2022)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes Dailymotion",A Aranha Negra (2022)
 https://www.dailymotion.com/cdn/manifest/video/x8n7jsg.m3u8?sec=mLErFlJnRKW0JsKqGyiQ9JOAEzOBVSFpeEWbXEEAWCsKzS8x9LFhZw_GPDhmU7vC&dmTs=246471&dmV1st=53d9f43d-094c-40d4-b8e2-54876a3cd2fe
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",A Batalha do Biscoito Pop Tart (2024)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes Dailymotion",A Batalha do Biscoito Pop Tart (2024)
 https://www.dailymotion.com/cdn/manifest/video/x90qr9e.m3u8?sec=Y9-yHPjg7dQzNh8rf0PnQDfFUg4fJDtdPlubs4zZHGoQ7hzq9uFUg4E0ew32AwW0&dmTs=246471&dmV1st=53d9f43d-094c-40d4-b8e2-54876a3cd2fe
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",A Colônia (2013)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes Dailymotion",A Colônia (2013)
 https://www.dailymotion.com/cdn/manifest/video/x8yo0va.m3u8?sec=RuFIcgTLVYWhqF3J7FQpLa7qt3aMYDRUBPWejeeL9Q9GK2VLtMe-EG167FWKUk5p&dmTs=246471&dmV1st=53d9f43d-094c-40d4-b8e2-54876a3cd2fe
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",A Cor da Vingança (2020)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes Dailymotion",A Cor da Vingança (2020)
 https://www.dailymotion.com/cdn/manifest/video/x8o64xm.m3u8?sec=QMSlffjwivFJhZ73VLL5uwKZbbdyRk-U_O_WADFm6h-8ZA8B2wlnPJuf6kLgzfWt&dmTs=246471&dmV1st=53d9f43d-094c-40d4-b8e2-54876a3cd2fe
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",A Criatura do Deserto (2019)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes Dailymotion",A Criatura do Deserto (2019)
 https://www.dailymotion.com/cdn/manifest/video/x8lvbos.m3u8?sec=w_imbjKFJMWtW5cszTtWF1yfKmANBxJEwYrAIbnRj4yRxbG8oaUsE3ckxTkYrRO3&dmTs=246471&dmV1st=53d9f43d-094c-40d4-b8e2-54876a3cd2fe
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",A Espiã que Sabia de Menos (2015)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes Dailymotion",A Espiã que Sabia de Menos (2015)
 https://www.dailymotion.com/cdn/manifest/video/x8rfyye.m3u8?sec=v_LDVZok9HUn6IJxHACqmZ1puPqkrFYuvPG3bK7h8fHm8onsXihxTXADqeZ0Qk0W&dmTs=246471&dmV1st=53d9f43d-094c-40d4-b8e2-54876a3cd2fe
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",A Força da Natureza (2020)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes Dailymotion",A Força da Natureza (2020)
 https://www.dailymotion.com/cdn/manifest/video/x8ooiq0.m3u8?sec=ARIhEEkVQirxn_4KbOUw_YQp7nPlu9tWKcUsg5YUrUuwjtmZnk55xERb5eCZAicv&dmTs=246471&dmV1st=53d9f43d-094c-40d4-b8e2-54876a3cd2fe
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",A Fuga do Prisioneiro 614 (2018)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes Dailymotion",A Fuga do Prisioneiro 614 (2018)
 https://www.dailymotion.com/cdn/manifest/video/x8nc3ns.m3u8?sec=nGIkEb6hDYRIvNOYKqNTBHDN-JfJWQC7z6k3lRi7rPpuRwdS3ZGvOLwzyqSlUjVs&dmTs=246471&dmV1st=53d9f43d-094c-40d4-b8e2-54876a3cd2fe
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",A Fúria de Drácula (2023)
-https://908505646.tapecontent.net/radosgw/pbvjgBJ0ZxhrMO9/w_XmFh9Phy0La4rj3M1BCUgwJdQe9I13uvm0RXNi64okp61rZCMWEE5hNP-KxZ60fnpRChHtsWH21mSZgxqqysPIQJJ-20JjBdXjU_mnuo_h7Fp6oKri0Eq83E1F0Hc40mhnRxeFjW0hBHM_-C7YMESOANHwAeDn1pzvjeTvt9haw_Z7E4-YhqUlaQiK8fRgDhEFeZ_Ii-QpCBSuaTb-15Erc1bxDNtIMBXqwx4TUyl1gsl1FMBr6GJ-9_yfTXOx7z12RGFdzwnOz6JAuVxP3j-6DjGCbO5uSUr_BImlbfWwb7VxVgzLaCfB4qEdTlI__BgE77kFQU8i1iTw/A+F%C3%BAria+de+Dr%C3%A1cula+2023+1080p+WEB-DL+DUAL+5.1.mkv.mp4?stream=1
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",A Justiceira (2023)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes Dailymotion",A Justiceira (2023)
 https://www.dailymotion.com/cdn/manifest/video/x8nv675.m3u8?sec=-XssINCMeQM-LKTMP-e3Uy58EhkFSj6piVrfihlftleWmUwsgwwP3ddcTxirU5yn&dmTs=246471&dmV1st=53d9f43d-094c-40d4-b8e2-54876a3cd2fe
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",A Noite em Que Voltaram para Casa (2024)
-https://2273158035.tapecontent.net/radosgw/79mbo7kJjmuA7QB/R0k6EigeHX8AiURMSeyY8LzwjvgxbA-YkiT3I-rVSjgSfX0_PI9xuNNIiGSm-mXTum455TZsnHwGbBahR7GoKyXOvwLvox37RQZrUs49MwNuX4gUMAVA96RnBM3GI6hHoWRvbDOlA7JN4-JCdTyzghTbtia28OvRe8g1v2IRlOr9Xvvfk_QoidctqOt2DyDq68r8FUhpknpC1yILeQMa-60xumt9sSeeShqbLAA6XpQT1uwWpz13z13sBGPgzwFNxxSqhh8Gb3WExMFzdpKSBj71QJzxywDzsTQoGr8lLSK-7CdDDq-D5ByAbu-N5b2arzQN60bj60uQh3Dv/A.Noite.em.Que.Voltaram.para.Casa.2024.1080p.COMANDOPLAY.COM.mkv.mp4?stream=1
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",A Profissional (2021)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes Dailymotion",A Profissional (2021)
 https://www.dailymotion.com/cdn/manifest/video/x8o1ewc.m3u8?sec=TdO5-3MqbSwqkWoWA0Q0J1KAXDfgXUf6BVrougIQSapwu9m1l8xeoT1apcqC55v5&dmTs=246471&dmV1st=53d9f43d-094c-40d4-b8e2-54876a3cd2fe
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",A Rebelião das Maquinas (2020) 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes Dailymotion",A Rebelião das Maquinas (2020) 
 https://www.dailymotion.com/cdn/manifest/video/x8ubb6i.m3u8?sec=VAeHFA3XeDOneYPhn6N9fjj2gIz53YA9q74uY5JcynTvIX6Cos8JWD1omVFEQDgf&dmTs=246471&dmV1st=53d9f43d-094c-40d4-b8e2-54876a3cd2fe
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",Agente X A Última Missão (2023) 
-https://2565136225.tapecontent.net/radosgw/Z31aB9YLDJcq9wM/tFPXkizWkocAMzk_devzmtpmGlFiYvDK7Qpln04e8I3-iAA3vhYMWdmwM0HDA-h1Mnwep1JxAbnXDHZcgsTpmDXPLRhPybV9SQZcdCd39GZikFb-oSX0qJSgggB0oWRqvB0MkNd83aIZe5PT6h9V22RficsVPU24z3_dlOU1CnJjgEBe58r1zIZWeQNFs01Lg5wQHurIuirIBajkd2WdLI2ICNfheHNeBhKr3FmROvhnfTX2lPPnSequeHSY4VJTxkQdWNrYQ5P_CgSQl4h7TD-0hp6F_EkLKa0jbxiQQY8yNXahD-JY6_QWefs/Agente.X.A.Ultima.Missao.2024.1080p.mkv.mp4?stream=1
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",Ak-47 A Arma Que Mudou o Mundo (2020)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes Dailymotion",Ak-47 A Arma Que Mudou o Mundo (2020)
 https://www.dailymotion.com/cdn/manifest/video/x8mikcb.m3u8?sec=ODPa93kzq9BhspghjuywW40pnXRuLmGbkWi1uwe8JhxwkIoYES6IXn0OraFOctMl&dmTs=246471&dmV1st=53d9f43d-094c-40d4-b8e2-54876a3cd2fe
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",Alma de Cacador (2024)
-https://2371755314.tapecontent.net/radosgw/6BOVxzYeVau9aA6/0UB6q-2iyD9mQZPBTYDlpMeub1u3qmUcIK8ODdbi8IwVhG4clgZ9GhJuyhDLUIYT_OM3ekEfwq56IpvzFH4eJxrUjUzwzWtI9bq8Cy5iPJlidTz2iuyg5bqvD3UhPOgbU4OKtuKo3fB1hjteJ1EN5CIkaFZWAFLGFSvh0Ss3jmYLmVK380rjYg7Wev6LjZ0o3W2wd_u-ck_OmRAlH9oHxLanDmxM2wsmPpc1Cg5osTJWD7FZVmF2rTPa4MLVBRSRu1kB7QDyd1WDS4Pjpyus4Pf_uvnqgbrb43VUxgGdXICQdc2dRD7VB9WVMeBKQmsySBMfZM_No_iQ2OjJ/Alma.de.Cacador.2024.1080p.WEB-DL.x264.DUAL.mkv.mp4?stream=1
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",Alone in the Dark O Despertar do Mal (2005) 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes Dailymotion",Alone in the Dark O Despertar do Mal (2005) 
 https://www.dailymotion.com/cdn/manifest/video/x8mlg0y.m3u8?sec=NANOeO0BzKobRUUtR-G5zZ4dtZKQnFhnqffZ5ROs3Y6SAUzjr8DucBP6Oc_WxHoz&dmTs=246471&dmV1st=53d9f43d-094c-40d4-b8e2-54876a3cd2fe
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",Aranhas! Um Experimento Que Deu Errado (2022)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes Dailymotion",Aranhas! Um Experimento Que Deu Errado (2022)
 https://www.dailymotion.com/cdn/manifest/video/x8mkitt.m3u8?sec=ymNh9lhzwvy8ieMzACzYIkstI9_0DntAKDtTeQ9DVlmAYy80qXbbzR6g3ClO-G7U&dmTs=246471&dmV1st=53d9f43d-094c-40d4-b8e2-54876a3cd2fe
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",As Marvels (2023)
-https://2565143240.tapecontent.net/radosgw/YDg43mQ6pMTv82l/ebq9BmFEn1Ydmr___tprTpuWljACZbFOrUwtJD_vLVPg2yMYqyBKWVGc0goujuTbAtlZLnoi_LK3V4MUlQxiFTC3jrvi8khx_ieve12o-GQf54RY3juIeYBIlHiLcQJ_V6TRU0HI4ZaSPEvAKIOoOnCEbvohwatJT7yYcq3oxoCFbMQSq3fIvCmsOitahTP7Y5Gl_MCeazK10T6okgMh1t0Bg2kMF0BLvCED60qfOI42n_RX6V31Cff4CdmMCdrsIkv_e5hLjh9zRnE1hkSxIAOsg87gEisLIcZhQrtZA9oDCxsW6xXA1kv2MTuCbKWfWr99R2Yd5aYo0Z-T/As.Marvels.2023.1080p.FULL.HD.BluRay.x264.DUAL.5.1.mkv.mp4?stream=1
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",Atlas (2024)
-https://861530311.tapecontent.net/radosgw/zX9M9wRQ0BIe7b/j7PKuDYLBG_Bb9nIPX_Js8VnuqwJIOId-VS2f6BEgaA4rQTLlr5MUEM2RTjOlMRJM0VA2j2tn2pQJvrVIwcSJoiFtIdtrJY9SQuJoflJrB6bSeXJaCoL6gEOTj_CB-GCzkjD2tLjJ-9BOuQbg-NBk8lA7IOORMMnKJgWn5teiDduI1nEYpwxkEyuhg1IHkYKvZTW9YPTXTTAJVkq6rESEEkIKtLf9-_CZtJMD5a5hZJN2MtL1Elbk_zg0LTJYZMVt9qlwkGCoLnnyw0BGbwsnQm3Ba7dKo74ugDo_ds4klQtom3BasyGXep5DiA/Atlas.2024.COMANDOPLAY.COM.mkv.mp4?stream=1
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",Até o Limite da Honra (2022)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes Dailymotion",Até o Limite da Honra (2022)
 https://www.dailymotion.com/cdn/manifest/video/x8qymsm.m3u8?sec=aTfvoZq28KGy3tVKWSvReBt4T-n0AoorX6RypPlUctaKPW2nKQg2XXVzyss8jENd&dmTs=246471&dmV1st=53d9f43d-094c-40d4-b8e2-54876a3cd2fe
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",Autodestruição (2017)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes Dailymotion",Autodestruição (2017)
 https://www.dailymotion.com/cdn/manifest/video/x8dmfyg.m3u8?sec=832e5xgPZUtnKHsNrUY86UDSw7cQNu-iZkQsQzt2ahFux-EJJJVfBA36FqgwdpJe&dmTs=246471&dmV1st=53d9f43d-094c-40d4-b8e2-54876a3cd2fe
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",Awake (2021) 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes Dailymotion",Awake (2021) 
 https://www.dailymotion.com/cdn/manifest/video/x8yta9m.m3u8?sec=6VppWvQZLds8vAswnfGX6tsWuAZR4R7-m81haBaOYfqfxJVlR5rHM3FGYhMIzU28&dmTs=246471&dmV1st=53d9f43d-094c-40d4-b8e2-54876a3cd2fe
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",Barão da Droga (2022)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes Dailymotion",Barão da Droga (2022)
 https://www.dailymotion.com/cdn/manifest/video/x8rc2j5.m3u8?sec=IxwLE-BK5AcTr4IFBUNkvWYDNPAb5cDd2rD58biEirtBaSmkLZWrD3e4l7uyn3QX&dmTs=246471&dmV1st=53d9f43d-094c-40d4-b8e2-54876a3cd2fe
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",Belém Zona de Conflito (2013)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes Dailymotion",Belém Zona de Conflito (2013)
 https://www.dailymotion.com/cdn/manifest/video/x8d7s8o.m3u8?sec=fpP8AUArhENPIZIk3Ud3VBsfkj0G27ZVBFB67-6Klf4K1qtvxG8yY4BhTpI-d2wm&dmTs=246471&dmV1st=53d9f43d-094c-40d4-b8e2-54876a3cd2fe
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",Bionicos (2024)
-https://858143534.tapecontent.net/radosgw/R7W3yyjQqgfdoRg/HlIpWBfkcXbkT6Rrk2SMK1IHx_tgJnW2Mr_mR_96NZjTyPJQlvap5NmARq5vBP-aV9xBiQAgBtpb_n4KnzEhzd2Of-n3SVfzoQOzAkGqRRSreO3yr9g5jiHZpqAJcgAtFxsVoJbBK2_pR-tmK3H-GHxDtRkHeVyflMwfBJmHEOWi7NjwG6g-y-W_kOwuvRbGAW9YMvTO0DA6wNttyMIsUA8FbkUycvjpvQ8bAh-cqy3xoV-8D52dAuFUJEQMipOuszP2E0One-J57Z7YKQ4a169KaiUo6peKbsCuCw/Bionicos.2024.mkv.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes Dailymotion",Caçada Implacável (2010)
+https://www.dailymotion.com/cdn/manifest/video/x8rtu6y.m3u8?sec=9RDHOl_HSOrD7sAQJsG4l7kqzuJsEiKxAUM5iznVJG-T4ck-fgZ8VBYSu4XQkFPX&dmTs=246471&dmV1st=53d9f43d-094c-40d4-b8e2-54876a3cd2fe
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes Dailymotion",Caçadores de Lobisomem (2022)
+https://www.dailymotion.com/cdn/manifest/video/x8x6jx8.m3u8?sec=4OEbGfE6YQTcIrIRc39H9GfEk2aDsEBAtKJdCMCIakkCbsH2PlGRQaP6DOwkNf1h&dmTs=246471&dmV1st=53d9f43d-094c-40d4-b8e2-54876a3cd2fe
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes Dailymotion",Code 8 Renegados (2019) 
+https://www.dailymotion.com/cdn/manifest/video/x8tpp9k.m3u8?sec=QvY2oRyJ5UnISslhKSCS9RHJlQ--Pe7KUYutUUYaidEiRdwm_x7ue2OAxavXheYO&dmTs=246471&dmV1st=53d9f43d-094c-40d4-b8e2-54876a3cd2fe
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes Dailymotion",Code 8 Renegados Parte 2 (2024)
+https://www.dailymotion.com/cdn/manifest/video/x8tr8qs.m3u8?sec=MXiOF3Vm9fNUnPBtE-Ih1kre-SGl4aXhadDMOU44aTMILvHnJFS35OOqnmRfmgAy&dmTs=246471&dmV1st=53d9f43d-094c-40d4-b8e2-54876a3cd2fe
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes Dailymotion",Colateral (2024)
+https://www.dailymotion.com/cdn/manifest/video/x8yaa4u.m3u8?sec=wqzUPNjhDCr1_wIbdFrUsdU2tM71c8NBKu9ylqe_r-462qRU30J2qRBFf9g5ggRh&dmTs=246471&dmV1st=53d9f43d-094c-40d4-b8e2-54876a3cd2fe
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes Dailymotion",Cora O Ultimo Suspiro (2023)
+https://www.dailymotion.com/cdn/manifest/video/x903orq.m3u8?sec=iU77Ft8lm64Apq9EvRk6Tbxj_CXhHaQPUm625jE5q0boW14ZlE6BtiyKmyYDbxgr&dmTs=246471&dmV1st=53d9f43d-094c-40d4-b8e2-54876a3cd2fe
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes Dailymotion",Criaturas (2021)
+https://www.dailymotion.com/cdn/manifest/video/x8r754z.m3u8?sec=3cyECsXz0DHzQBCX9-1boLAsre7UR7g4kUQOVGd7liZ9siMd1cyV1yXlV9YQFF-V&dmTs=246471&dmV1st=53d9f43d-094c-40d4-b8e2-54876a3cd2fe
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes Dailymotion",Cão Selvagem (2017) 
+https://www.dailymotion.com/cdn/manifest/video/x8zwu2u.m3u8?sec=PzfYfi5zyZuqZlAaDWEWYlKpU1nmxhJwPzb8ZHcCET6wSuwoZo6FMFkz48fOzXKW&dmTs=246471&dmV1st=53d9f43d-094c-40d4-b8e2-54876a3cd2fe
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes Dailymotion",Deixados para trás 3 Mundo em Guerra (2015)
+https://www.dailymotion.com/cdn/manifest/video/x8jm9mg.m3u8?sec=8VmIATqD7eZKf_aDy6455Phgxh67jJ1chJzlAH7_vQVU2e45ll84WpoutOaXsAIt&dmTs=246471&dmV1st=53d9f43d-094c-40d4-b8e2-54876a3cd2fe
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes Dailymotion",Deixando o Afeganistão (2019)
+https://www.dailymotion.com/cdn/manifest/video/x8ohtd4.m3u8?sec=KJcDeTkKYlPVhA2XAFfF7tKNKKixoGaWb14tg2MFs0uCNvJ6pXsZnt8g4EJfuf3I&dmTs=246471&dmV1st=53d9f43d-094c-40d4-b8e2-54876a3cd2fe
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes Dailymotion",Dentro de Nós (2021)
+https://www.dailymotion.com/cdn/manifest/video/x8ytau8.m3u8?sec=mrCCOc_8OIHgWL1TBUtZPYicY7HPDulAxH3BEGUpytiWoC6R2Hg83w3wQ7dDi5r9&dmTs=246471&dmV1st=53d9f43d-094c-40d4-b8e2-54876a3cd2fe
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes Dailymotion",Destinos a Deriva (2023)
+https://www.dailymotion.com/cdn/manifest/video/x8ytb10.m3u8?sec=dGgBjZfFIw5rPBpKS0CJZ-7-E3BbpYeKtWPkIsKYe9-5Bmti4kJXM8woP3Nfq_9m&dmTs=246471&dmV1st=53d9f43d-094c-40d4-b8e2-54876a3cd2fe
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes Dailymotion",Do Outro Lado da Fronteira (2019)
+https://www.dailymotion.com/cdn/manifest/video/x8otfkv.m3u8?sec=TtMK3vdDqLyi4Eyu3vpzYnH6QUz81oqAIqtYyyNt0keFSCtsq7GWunx7V9hg1PFh&dmTs=246471&dmV1st=53d9f43d-094c-40d4-b8e2-54876a3cd2fe
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes Dailymotion",Donzela (2024)
+https://www.dailymotion.com/cdn/manifest/video/x8u9c1m.m3u8?sec=slKeKvlFzGNlTCMbf6HsMW-tSyWy9vVWchIS18M-_2EaJkaimy4M5XVkW_lt3Nb3&dmTs=246471&dmV1st=53d9f43d-094c-40d4-b8e2-54876a3cd2fe
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes Dailymotion",Duro de Atuar 2 (2024)
+https://www.dailymotion.com/cdn/manifest/video/x8zg5r6.m3u8?sec=QWKdDhCqzV6QapjrLBTw0-dpMeEeEu24DdagALYggMWdpxrlBM7pidoTqWVQzOcl&dmTs=246471&dmV1st=53d9f43d-094c-40d4-b8e2-54876a3cd2fe
