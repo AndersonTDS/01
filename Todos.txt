@@ -1,2 +1,2 @@
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",Macaco vs. Máquina
-https://youtu.be/embed/D0i8_SNu_Uk
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",Macaco vs. Máquina Teste
+https://www.youtube.com/embed/D0i8_SNu_Uk
