@@ -1,2 +1,2 @@
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes Dailymotion",Macaco vs. Máquina (2023)
-https://www.youtube.com/watch?v=jNQXAC9IVRw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes",Macaco vs. Máquina
+https://youtu.be/embed/D0i8_SNu_Uk
