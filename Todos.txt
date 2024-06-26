@@ -1,2 +1,1 @@
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZ6cvR2.png" group-title="Filmes Dailymotion",Kursk A Última Missão (2018)
-plugin://plugin.video.youtube/play/?play=1&order=shuffle&playlist_id=PLD0i8_SNu_Uk
+
